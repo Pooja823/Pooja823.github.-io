@@ -59,7 +59,8 @@
 <dd>8.Banks:0.25km^2</dd>
 <dd>9.Solar Farm:0.63km^2</dd>
 <dd>10.Public charge vehicle:0.25km^2</dd>
-![Project Screenshot](https://github.com/Pooja823/Pooja823.github.-io/blob/main/assets/smartcity.jpeg?raw=true)
+![Project Screenshot](https://raw.githubusercontent.com/Pooja823/Pooja823.github.-io/main/assets/smartcity.jpeg)
+
 
 [Business Case Studies](business-case-studies.md)
 </dl>

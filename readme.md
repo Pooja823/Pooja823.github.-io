@@ -59,7 +59,7 @@
 <dd>8.Banks:0.25km^2</dd>
 <dd>9.Solar Farm:0.63km^2</dd>
 <dd>10.Public charge vehicle:0.25km^2</dd>
-![image](https://github.com/user-attachments/assets/561b4a31-454b-4b76-824e-1fea7b261630)
+![Project Screenshot](assets/image.png)
 
 [Business Case Studies](business-case-studies.md)
 </dl>

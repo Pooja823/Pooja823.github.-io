@@ -59,7 +59,7 @@
 <dd>8.Banks:0.25km^2</dd>
 <dd>9.Solar Farm:0.63km^2</dd>
 <dd>10.Public charge vehicle:0.25km^2</dd>
-![Project Screenshot]([assets/Whatsapp image.png](https://raw.githubusercontent.com/Pooja823/Pooja823.github.-io/15f1370a6cc53d37471925999ab8ced0accabbd8/assetts/WhatsApp%20Image%202024-11-27%20at%205.28.19%20PM%20(1)%20(1).jpeg))
+![Project Screenshot](https://raw.githubusercontent.com/Pooja823/Pooja823.github.-io/15f1370a6cc53d37471925999ab8ced0accabbd8/assetts/WhatsApp%20Image%202024-11-27%20at%205.28.19%20PM%20(1)%20(1).jpeg)
 
 [Business Case Studies](business-case-studies.md)
 </dl>

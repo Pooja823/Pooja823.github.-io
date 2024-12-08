@@ -7,7 +7,6 @@ title: Home
     <h2>🛠 Projects</h2>
     <ul>
         <li><strong>Project 1</strong>: A short description of your project1.</li>
-       
     </ul>
 
     <h2>🚀 Skills</h2>
@@ -49,4 +48,5 @@ title: Home
 
     <blockquote>“The only way to do great work is to love what you do.” – Steve Jobs</blockquote>
 </section>
+
 

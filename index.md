@@ -18,7 +18,7 @@ title: Portfolio
 
     <h2>🌐 Find Me Online</h2>
     <ul>
-        <li><a href="https://github.com/sahana-kp-ship-it" target="_blank">GitHub</a></li>
+       <li><a href="https://github.com/Pooja823" target="_blank">GitHub</a></li>
         <li><a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a></li>
     </ul>
 

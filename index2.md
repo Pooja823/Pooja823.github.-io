@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Portfolio
+title: Portfolio Page 2
+permalink: /index2/
 ---
 
 <section>
     <h2>🛠 Projects</h2>
     <ul>
         <li><strong>Project 1</strong>: A short description of your project1.</li>
-        <li><strong>Project 2</strong>: A short description of your project2.</li>
+      
     </ul>
 
     <h2>🚀 Skills</h2>
@@ -19,8 +20,7 @@ title: Portfolio
 
     <h2>🌐 Find Me Online</h2>
     <ul>
-        <li><a href="https://https://github.com/Pooja823/Pooja823.github.-io/edit/main/index2.md</a></li>
+        <li><a href="https://github.com/Pooja823" target="_blank">GitHub</a></li>
         <li><a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a></li>
     </ul>
 </section>
-
